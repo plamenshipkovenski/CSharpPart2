@@ -2,9 +2,12 @@
 
 class FindMaxIncreaseSequence
 {
+    //Write a program that finds the maximal increasing sequence in an array
+
     static void Main()
     {
         Console.Write("input length of array: ");
+
         int arrLength = int.Parse(Console.ReadLine());
 
         int[] myArray = new int[arrLength];

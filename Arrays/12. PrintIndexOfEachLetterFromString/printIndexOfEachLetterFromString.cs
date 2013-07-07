@@ -1,38 +1,40 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
 class PrintIndexOfEachLetterFromString
 {
+    //Write a program that creates an array containing all letters
+    // from the alphabet (A-Z). Read a word from the console
+    // and print the index of each of its letters in the array
+
     static void Main()
     {
-        Console.WriteLine("Input Word: ");
-        string word = Console.ReadLine().ToUpper();
+        string word = GetWord();
 
-        string alphabet = GetAlphabet();
+        char[] alphabet = GetAlphabet();
 
-        List<int> letterIndexes = new List<int>();
-
-        foreach (var letter in word)
+        foreach (char letter in word)
         {
-            letterIndexes.Add(Array.BinarySearch(alphabet.ToCharArray(), letter));
-        }
-
-        foreach (int index in letterIndexes)
-        {
-            char letter = (char)(index + 65);
-            Console.WriteLine("{0} -> {1}", letter.ToString(), index + 1);//asume A has index 1 //digits present as 0
+            Console.WriteLine("{0} -> {1}", letter.ToString(), (Array.BinarySearch(alphabet, letter) + 1) );//asume A has index 1 in alphabet
         }
     }
 
-    private static string GetAlphabet()
+    private static string GetWord()
     {
-        StringBuilder alphabet = new StringBuilder();
+        Console.WriteLine("Input Word: ");
+        string word = Console.ReadLine().ToUpper();
+        return word;
+    }
 
-        for (int i = 65; i <= 90; i++)
+    private static char[] GetAlphabet()
+    {
+        StringBuilder alphabetSB = new StringBuilder();
+
+        for (int i = 'A'; i <= 'Z'; i++)
         {
-            alphabet.Append((char)i);
+            alphabetSB.Append(Convert.ToChar(i));
         }
-        return alphabet.ToString();
+
+        return alphabetSB.ToString().ToCharArray();
     }
 }

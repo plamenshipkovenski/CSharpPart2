@@ -3,34 +3,36 @@ using System.Linq;
 
 class CompareArrays
 {
+    //Write a program that reads two arrays from the console and compares them element by element.
+
+
+    private static int[] AllocateArr()
+    {
+        Console.Write("input length of array: ");
+        int arrLen = int.Parse(Console.ReadLine());
+
+        int[] arr = new int[arrLen];
+        Console.WriteLine("input {0} integers:", arrLen);
+
+        for (int i = 0; i < arr.Length; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+        return arr;
+    }
+
     static void Main()
     {
         Console.Title = "Compare Two Arrays";
 
-        Console.Write("input length of first array: ");
-        int firstArrLength = int.Parse(Console.ReadLine());
+        int[] firstArr = AllocateArr();
 
-        int[] firstArr = new int[firstArrLength];
-        Console.WriteLine("input {0} integers:", firstArrLength);
-
-        for (int i = 0; i < firstArr.Length; i++)
-        {
-            firstArr[i] = int.Parse(Console.ReadLine());
-        }
-
-        Console.Write("input length of second array: ");
-        int secArrLength = int.Parse(Console.ReadLine());
-
-        int[] secArr = new int[secArrLength];
-        Console.WriteLine("input {0} integers:", secArrLength);
-
-        for (int i = 0; i < secArr.Length; i++)
-        {
-            secArr[i] = int.Parse(Console.ReadLine());
-        }
+        int[] secArr = AllocateArr();
 
         //secArr = firstArr;//makes arrays same object
         bool hasSameReference = Enumerable.Equals(firstArr, secArr);//using System.Linq;
+
+        bool areEqualArrays = true;
 
         if (hasSameReference)
         {
@@ -42,34 +44,29 @@ class CompareArrays
 
             if (hasEqualMembersCount)
             {
-                Array.Sort(firstArr);
-                Array.Sort(secArr);
-
-                bool areEqualsArrays = true;
-
-                for (int index = 0; index < firstArr.Length; index++)
+                for (int i = 0; i < firstArr.Length; i++)
                 {
-                    if (firstArr[index] != secArr[index])
+                    if (firstArr[i] != secArr[i])
                     {
-                        areEqualsArrays = false;
-
+                        areEqualArrays = false;
                         break;
                     }
-                }
-
-                if (areEqualsArrays)
-                {
-                    Console.WriteLine("These arrays are equals but they are two different objects!");
-                }
-                else
-                {
-                    Console.WriteLine("These arrays are not equals!");
                 }
             }
             else
             {
-                Console.WriteLine("These arrays are not equals!");
+                areEqualArrays = false;
             }
+        }
+
+
+        if (areEqualArrays)
+        {
+            Console.WriteLine("these arrays are equal!");
+        }
+        else
+        {
+            Console.WriteLine("these arrays are different!");
         }
     }
 }

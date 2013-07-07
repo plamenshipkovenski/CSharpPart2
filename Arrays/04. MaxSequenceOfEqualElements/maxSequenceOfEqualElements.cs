@@ -2,6 +2,8 @@
 
 class MaxSequenceOfEqualElements
 {
+    //Write a program that finds the maximal sequence of equal elements in an array.
+
     static void Main()
     {
         Console.Write("Input array Length: ");
@@ -21,7 +23,7 @@ class MaxSequenceOfEqualElements
 
         int lastIndex = myArray.Length - 1;
 
-        for (int index = 0; index < lastIndex - 1; )
+        for (int index = 0; index <= lastIndex; )
         {
             int sequenceMembers = 1;
 
@@ -29,7 +31,7 @@ class MaxSequenceOfEqualElements
             {
                 sequenceMembers++;
 
-                if (sequenceMembers >= maxSequenceLen)
+                if (sequenceMembers > maxSequenceLen)
                 {
                     maxSequenceLen = sequenceMembers;
                     maxSequenceStartIndex = index;
