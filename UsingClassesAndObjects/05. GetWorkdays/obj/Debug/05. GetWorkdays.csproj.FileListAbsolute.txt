@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\05. GetWorkdays\bin\Debug\_05.GetWorkdays.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\05. GetWorkdays\bin\Debug\_05.GetWorkdays.exe
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\05. GetWorkdays\bin\Debug\_05.GetWorkdays.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\05. GetWorkdays\obj\Debug\05. GetWorkdays.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\05. GetWorkdays\obj\Debug\_05.GetWorkdays.exe
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\05. GetWorkdays\obj\Debug\_05.GetWorkdays.pdb

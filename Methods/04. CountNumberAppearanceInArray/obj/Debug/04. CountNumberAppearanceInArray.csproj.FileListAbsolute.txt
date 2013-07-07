@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\04. CountNumberAppearanceInArray\bin\Debug\_04.CountNumberAppearanceInArray.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\04. CountNumberAppearanceInArray\bin\Debug\_04.CountNumberAppearanceInArray.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\04. CountNumberAppearanceInArray\bin\Debug\_04.CountNumberAppearanceInArray.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\04. CountNumberAppearanceInArray\obj\Debug\_04.CountNumberAppearanceInArray.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\04. CountNumberAppearanceInArray\obj\Debug\_04.CountNumberAppearanceInArray.pdb

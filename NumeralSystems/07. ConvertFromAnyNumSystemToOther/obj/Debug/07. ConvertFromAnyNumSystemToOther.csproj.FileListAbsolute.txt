@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\07. ConvertFromAnyNumSystemToOther\bin\Debug\_07.ConvertFromAnyNumSystemToOther.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\07. ConvertFromAnyNumSystemToOther\bin\Debug\_07.ConvertFromAnyNumSystemToOther.exe
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\07. ConvertFromAnyNumSystemToOther\bin\Debug\_07.ConvertFromAnyNumSystemToOther.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\07. ConvertFromAnyNumSystemToOther\obj\Debug\07. ConvertFromAnyNumSystemToOther.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\07. ConvertFromAnyNumSystemToOther\obj\Debug\_07.ConvertFromAnyNumSystemToOther.exe
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\07. ConvertFromAnyNumSystemToOther\obj\Debug\_07.ConvertFromAnyNumSystemToOther.pdb

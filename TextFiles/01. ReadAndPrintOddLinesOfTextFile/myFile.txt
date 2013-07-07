@@ -1,0 +1,8 @@
+﻿odd line нечетен
+even line четен 
+odd line нечетен
+even line четен
+odd line нечетен
+even line четен
+odd line нечетен
+even line четен

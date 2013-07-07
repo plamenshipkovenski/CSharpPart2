@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\08.ExtractSentencesContainingGivenWord\bin\Debug\08.ExtractSentencesContainingGivenWord.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\08.ExtractSentencesContainingGivenWord\obj\Debug\08.ExtractSentencesContainingGivenWord.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\08.ExtractSentencesContainingGivenWord\bin\Debug\08.ExtractSentencesContainingGivenWord.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\08.ExtractSentencesContainingGivenWord\bin\Debug\08.ExtractSentencesContainingGivenWord.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\08.ExtractSentencesContainingGivenWord\obj\Debug\08.ExtractSentencesContainingGivenWord.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\08.ExtractSentencesContainingGivenWord\obj\Debug\08.ExtractSentencesContainingGivenWord.pdb

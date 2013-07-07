@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\01. AccessEachElementInSpecificOrder\bin\Debug\_01.AccessEachElementInSpecificOrder.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\01. AccessEachElementInSpecificOrder\bin\Debug\_01.AccessEachElementInSpecificOrder.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\01. AccessEachElementInSpecificOrder\bin\Debug\_01.AccessEachElementInSpecificOrder.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\01. AccessEachElementInSpecificOrder\obj\Debug\01. AccessEachElementInSpecificOrder.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\01. AccessEachElementInSpecificOrder\obj\Debug\_01.AccessEachElementInSpecificOrder.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\01. AccessEachElementInSpecificOrder\obj\Debug\_01.AccessEachElementInSpecificOrder.pdb

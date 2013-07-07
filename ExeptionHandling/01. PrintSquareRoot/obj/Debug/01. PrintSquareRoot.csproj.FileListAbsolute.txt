@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\01. PrintSquareRoot\bin\Debug\_01.PrintSquareRoot.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\01. PrintSquareRoot\bin\Debug\_01.PrintSquareRoot.exe
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\01. PrintSquareRoot\bin\Debug\_01.PrintSquareRoot.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\01. PrintSquareRoot\obj\Debug\_01.PrintSquareRoot.exe
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\01. PrintSquareRoot\obj\Debug\_01.PrintSquareRoot.pdb

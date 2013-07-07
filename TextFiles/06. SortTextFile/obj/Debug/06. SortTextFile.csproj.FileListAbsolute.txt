@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\06. SortTextFile\bin\Debug\_06.SortTextFile.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\06. SortTextFile\obj\Debug\06. SortTextFile.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\06. SortTextFile\bin\Debug\_06.SortTextFile.exe
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\06. SortTextFile\bin\Debug\_06.SortTextFile.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\06. SortTextFile\obj\Debug\_06.SortTextFile.exe
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\06. SortTextFile\obj\Debug\_06.SortTextFile.pdb

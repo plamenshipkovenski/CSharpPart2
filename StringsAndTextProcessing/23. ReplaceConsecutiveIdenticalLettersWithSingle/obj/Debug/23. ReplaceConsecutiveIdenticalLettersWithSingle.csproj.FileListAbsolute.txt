@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\23. ReplaceConsecutiveIdenticalLettersWithSingle\bin\Debug\_23.ReplaceConsecutiveIdenticalLettersWithSingle.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\23. ReplaceConsecutiveIdenticalLettersWithSingle\bin\Debug\_23.ReplaceConsecutiveIdenticalLettersWithSingle.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\23. ReplaceConsecutiveIdenticalLettersWithSingle\bin\Debug\_23.ReplaceConsecutiveIdenticalLettersWithSingle.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\23. ReplaceConsecutiveIdenticalLettersWithSingle\obj\Debug\23. ReplaceConsecutiveIdenticalLettersWithSingle.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\23. ReplaceConsecutiveIdenticalLettersWithSingle\obj\Debug\_23.ReplaceConsecutiveIdenticalLettersWithSingle.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\23. ReplaceConsecutiveIdenticalLettersWithSingle\obj\Debug\_23.ReplaceConsecutiveIdenticalLettersWithSingle.pdb

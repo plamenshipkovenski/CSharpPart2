@@ -1,0 +1,8 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\obj\Debug\14. SampleDictionary.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\obj\Debug\_14.SampleDictionary.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\obj\Debug\_14.SampleDictionary.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.exe.CodeAnalysisLog.xml
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.exe.lastcodeanalysissucceeded

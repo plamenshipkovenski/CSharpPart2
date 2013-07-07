@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\19. GenerateAndPrintPermutationsFrom1ToN\bin\Debug\_19.GenerateAndPrintPermutationsFrom1ToN.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\19. GenerateAndPrintPermutationsFrom1ToN\bin\Debug\_19.GenerateAndPrintPermutationsFrom1ToN.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\19. GenerateAndPrintPermutationsFrom1ToN\bin\Debug\_19.GenerateAndPrintPermutationsFrom1ToN.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\19. GenerateAndPrintPermutationsFrom1ToN\obj\Debug\19. GenerateAndPrintPermutationsFrom1ToN.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\19. GenerateAndPrintPermutationsFrom1ToN\obj\Debug\_19.GenerateAndPrintPermutationsFrom1ToN.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\19. GenerateAndPrintPermutationsFrom1ToN\obj\Debug\_19.GenerateAndPrintPermutationsFrom1ToN.pdb

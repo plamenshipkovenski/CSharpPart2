@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\06. FindIndexOfElementInArrayBiggerThanItsNeigbours\bin\Debug\_06.FindIndexOfElementInArrayBiggerThanItsNeigbours.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\06. FindIndexOfElementInArrayBiggerThanItsNeigbours\bin\Debug\_06.FindIndexOfElementInArrayBiggerThanItsNeigbours.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\06. FindIndexOfElementInArrayBiggerThanItsNeigbours\bin\Debug\_06.FindIndexOfElementInArrayBiggerThanItsNeigbours.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\06. FindIndexOfElementInArrayBiggerThanItsNeigbours\obj\Debug\06. FindIndexOfElementInArrayBiggerThanItsNeigbours.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\06. FindIndexOfElementInArrayBiggerThanItsNeigbours\obj\Debug\_06.FindIndexOfElementInArrayBiggerThanItsNeigbours.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\06. FindIndexOfElementInArrayBiggerThanItsNeigbours\obj\Debug\_06.FindIndexOfElementInArrayBiggerThanItsNeigbours.pdb

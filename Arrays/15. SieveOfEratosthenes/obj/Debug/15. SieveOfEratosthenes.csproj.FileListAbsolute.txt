@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\15. SieveOfEratosthenes\bin\Debug\_15.SieveOfEratosthenes.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\15. SieveOfEratosthenes\obj\Debug\15. SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\15. SieveOfEratosthenes\obj\Debug\_15.SieveOfEratosthenes.pdb

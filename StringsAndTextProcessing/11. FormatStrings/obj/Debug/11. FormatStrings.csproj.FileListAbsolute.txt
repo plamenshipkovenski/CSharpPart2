@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\11. FormatStrings\bin\Debug\_11.FormatStrings.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\11. FormatStrings\bin\Debug\_11.FormatStrings.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\11. FormatStrings\bin\Debug\_11.FormatStrings.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\11. FormatStrings\obj\Debug\11. FormatStrings.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\11. FormatStrings\obj\Debug\_11.FormatStrings.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\11. FormatStrings\obj\Debug\_11.FormatStrings.pdb

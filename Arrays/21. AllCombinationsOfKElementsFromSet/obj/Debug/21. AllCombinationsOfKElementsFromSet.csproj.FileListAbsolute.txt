@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\21. AllCombinationsOfKElementsFromSet\bin\Debug\_21.AllCombinationsOfKElementsFromSet.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\21. AllCombinationsOfKElementsFromSet\bin\Debug\_21.AllCombinationsOfKElementsFromSet.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\21. AllCombinationsOfKElementsFromSet\bin\Debug\_21.AllCombinationsOfKElementsFromSet.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\21. AllCombinationsOfKElementsFromSet\obj\Debug\_21.AllCombinationsOfKElementsFromSet.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\21. AllCombinationsOfKElementsFromSet\obj\Debug\_21.AllCombinationsOfKElementsFromSet.pdb

@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\10.  ConvertStringToSequenceOfUnicodeCharLiterals\bin\Debug\_10.ConvertStringToSequenceOfUnicodeCharLiterals.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\10.  ConvertStringToSequenceOfUnicodeCharLiterals\bin\Debug\_10.ConvertStringToSequenceOfUnicodeCharLiterals.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\10.  ConvertStringToSequenceOfUnicodeCharLiterals\bin\Debug\_10.ConvertStringToSequenceOfUnicodeCharLiterals.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\10.  ConvertStringToSequenceOfUnicodeCharLiterals\obj\Debug\10.  ConvertStringToSequenceOfUnicodeCharLiterals.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\10.  ConvertStringToSequenceOfUnicodeCharLiterals\obj\Debug\_10.ConvertStringToSequenceOfUnicodeCharLiterals.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\10.  ConvertStringToSequenceOfUnicodeCharLiterals\obj\Debug\_10.ConvertStringToSequenceOfUnicodeCharLiterals.pdb

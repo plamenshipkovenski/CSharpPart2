@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\05. ConvertHexadecimalToBinaryDirectly\bin\Debug\_05.ConvertHexadecimalToBinaryDirectly.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\05. ConvertHexadecimalToBinaryDirectly\bin\Debug\_05.ConvertHexadecimalToBinaryDirectly.exe
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\05. ConvertHexadecimalToBinaryDirectly\bin\Debug\_05.ConvertHexadecimalToBinaryDirectly.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\05. ConvertHexadecimalToBinaryDirectly\obj\Debug\05. ConvertHexadecimalToBinaryDirectly.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\05. ConvertHexadecimalToBinaryDirectly\obj\Debug\_05.ConvertHexadecimalToBinaryDirectly.exe
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\05. ConvertHexadecimalToBinaryDirectly\obj\Debug\_05.ConvertHexadecimalToBinaryDirectly.pdb

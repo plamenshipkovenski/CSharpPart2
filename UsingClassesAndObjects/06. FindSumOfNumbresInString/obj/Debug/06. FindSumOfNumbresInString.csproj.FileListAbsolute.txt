@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\06. FindSumOfNumbresInString\bin\Debug\_06.FindSumOfNumbresInString.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\06. FindSumOfNumbresInString\bin\Debug\_06.FindSumOfNumbresInString.exe
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\06. FindSumOfNumbresInString\bin\Debug\_06.FindSumOfNumbresInString.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\06. FindSumOfNumbresInString\obj\Debug\_06.FindSumOfNumbresInString.exe
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\06. FindSumOfNumbresInString\obj\Debug\_06.FindSumOfNumbresInString.pdb

@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\11. BinarySearchImplementation\bin\Debug\_11.BinarySearchImplementation.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\11. BinarySearchImplementation\bin\Debug\_11.BinarySearchImplementation.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\11. BinarySearchImplementation\bin\Debug\_11.BinarySearchImplementation.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\11. BinarySearchImplementation\obj\Debug\11. BinarySearchImplementation.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\11. BinarySearchImplementation\obj\Debug\_11.BinarySearchImplementation.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\11. BinarySearchImplementation\obj\Debug\_11.BinarySearchImplementation.pdb

@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\03. EnumerateFileLines\bin\Debug\_03.EnumerateFileLines.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\03. EnumerateFileLines\bin\Debug\_03.EnumerateFileLines.exe
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\03. EnumerateFileLines\bin\Debug\_03.EnumerateFileLines.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\03. EnumerateFileLines\obj\Debug\03. EnumerateFileLines.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\03. EnumerateFileLines\obj\Debug\_03.EnumerateFileLines.exe
+D:\telerikAcademy\Programming\c#2\homeworks\TextFiles\03. EnumerateFileLines\obj\Debug\_03.EnumerateFileLines.pdb

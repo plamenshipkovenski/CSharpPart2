@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\20. AllVariationsOfKElemensFrom1ToN\bin\Debug\_20.AllVariationsOfKElemensFrom1ToN.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\20. AllVariationsOfKElemensFrom1ToN\bin\Debug\_20.AllVariationsOfKElemensFrom1ToN.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\20. AllVariationsOfKElemensFrom1ToN\bin\Debug\_20.AllVariationsOfKElemensFrom1ToN.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\20. AllVariationsOfKElemensFrom1ToN\obj\Debug\20. AllVariationsOfKElemensFrom1ToN.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\20. AllVariationsOfKElemensFrom1ToN\obj\Debug\_20.AllVariationsOfKElemensFrom1ToN.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\20. AllVariationsOfKElemensFrom1ToN\obj\Debug\_20.AllVariationsOfKElemensFrom1ToN.pdb

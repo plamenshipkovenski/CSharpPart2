@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\03. FindLongestSequenceOfEqualStringsInMatrix\bin\Debug\_03.FindLongestSequenceOfEqualStringsInMatrix.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\03. FindLongestSequenceOfEqualStringsInMatrix\obj\Debug\03. FindLongestSequenceOfEqualStringsInMatrix.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\03. FindLongestSequenceOfEqualStringsInMatrix\bin\Debug\_03.FindLongestSequenceOfEqualStringsInMatrix.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\03. FindLongestSequenceOfEqualStringsInMatrix\bin\Debug\_03.FindLongestSequenceOfEqualStringsInMatrix.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\03. FindLongestSequenceOfEqualStringsInMatrix\obj\Debug\_03.FindLongestSequenceOfEqualStringsInMatrix.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\03. FindLongestSequenceOfEqualStringsInMatrix\obj\Debug\_03.FindLongestSequenceOfEqualStringsInMatrix.pdb

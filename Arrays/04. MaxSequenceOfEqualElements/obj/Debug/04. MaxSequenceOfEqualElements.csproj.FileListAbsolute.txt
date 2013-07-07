@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\04. MaxSequenceOfEqualElements\bin\Debug\_04.MaxSequenceOfEqualElements.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\04. MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\04. MaxSequenceOfEqualElements\obj\Debug\_04.MaxSequenceOfEqualElements.pdb

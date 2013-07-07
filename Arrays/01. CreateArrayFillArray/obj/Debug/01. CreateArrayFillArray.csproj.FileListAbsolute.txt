@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\01. CreateArrayFillArray\bin\Debug\_01.CreateArrayFillArray.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\01. CreateArrayFillArray\bin\Debug\_01.CreateArrayFillArray.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\01. CreateArrayFillArray\bin\Debug\_01.CreateArrayFillArray.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\01. CreateArrayFillArray\obj\Debug\01. CreateArrayFillArray.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\01. CreateArrayFillArray\obj\Debug\_01.CreateArrayFillArray.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\01. CreateArrayFillArray\obj\Debug\_01.CreateArrayFillArray.pdb

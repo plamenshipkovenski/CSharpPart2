@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\24. PrintListInAlphabeticalOrder\bin\Debug\_24.PrintListInAlphabeticalOrder.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\24. PrintListInAlphabeticalOrder\bin\Debug\_24.PrintListInAlphabeticalOrder.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\24. PrintListInAlphabeticalOrder\bin\Debug\_24.PrintListInAlphabeticalOrder.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\24. PrintListInAlphabeticalOrder\obj\Debug\24. PrintListInAlphabeticalOrder.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\24. PrintListInAlphabeticalOrder\obj\Debug\_24.PrintListInAlphabeticalOrder.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\24. PrintListInAlphabeticalOrder\obj\Debug\_24.PrintListInAlphabeticalOrder.pdb

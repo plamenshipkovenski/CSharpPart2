@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\08. AdditionOfPositiveNumbers\bin\Debug\_08.AdditionOfPositiveNumbers.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\08. AdditionOfPositiveNumbers\bin\Debug\_08.AdditionOfPositiveNumbers.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\08. AdditionOfPositiveNumbers\bin\Debug\_08.AdditionOfPositiveNumbers.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\08. AdditionOfPositiveNumbers\obj\Debug\08. AdditionOfPositiveNumbers.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\08. AdditionOfPositiveNumbers\obj\Debug\_08.AdditionOfPositiveNumbers.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\08. AdditionOfPositiveNumbers\obj\Debug\_08.AdditionOfPositiveNumbers.pdb

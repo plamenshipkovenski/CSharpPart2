@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\06. FindKElementsWithMaxSum\bin\Debug\_06.FindKElementsWithMaxSum.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\06. FindKElementsWithMaxSum\bin\Debug\_06.FindKElementsWithMaxSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\06. FindKElementsWithMaxSum\bin\Debug\_06.FindKElementsWithMaxSum.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\06. FindKElementsWithMaxSum\obj\Debug\06. FindKElementsWithMaxSum.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\06. FindKElementsWithMaxSum\obj\Debug\_06.FindKElementsWithMaxSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\06. FindKElementsWithMaxSum\obj\Debug\_06.FindKElementsWithMaxSum.pdb

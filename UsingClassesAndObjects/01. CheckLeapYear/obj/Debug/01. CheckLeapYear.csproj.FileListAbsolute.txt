@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\01. CheckLeapYear\bin\Debug\_01.CheckLeapYear.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\01. CheckLeapYear\bin\Debug\_01.CheckLeapYear.exe
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\01. CheckLeapYear\bin\Debug\_01.CheckLeapYear.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\01. CheckLeapYear\obj\Debug\01. CheckLeapYear.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\01. CheckLeapYear\obj\Debug\_01.CheckLeapYear.exe
+D:\telerikAcademy\Programming\c#2\homeworks\UsingClassesAndObjects\01. CheckLeapYear\obj\Debug\_01.CheckLeapYear.pdb

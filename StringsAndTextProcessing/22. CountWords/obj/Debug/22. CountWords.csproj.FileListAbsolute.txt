@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\22. CountWords\bin\Debug\_22.CountWords.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\22. CountWords\bin\Debug\_22.CountWords.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\22. CountWords\bin\Debug\_22.CountWords.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\22. CountWords\obj\Debug\22. CountWords.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\22. CountWords\obj\Debug\_22.CountWords.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\22. CountWords\obj\Debug\_22.CountWords.pdb

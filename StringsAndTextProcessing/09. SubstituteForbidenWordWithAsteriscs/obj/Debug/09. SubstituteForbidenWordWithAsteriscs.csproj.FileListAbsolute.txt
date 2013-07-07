@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\09. SubstituteForbidenWordWithAsteriscs\bin\Debug\_09.SubstituteForbidenWordWithAsteriscs.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\09. SubstituteForbidenWordWithAsteriscs\bin\Debug\_09.SubstituteForbidenWordWithAsteriscs.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\09. SubstituteForbidenWordWithAsteriscs\bin\Debug\_09.SubstituteForbidenWordWithAsteriscs.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\09. SubstituteForbidenWordWithAsteriscs\obj\Debug\09. SubstituteForbidenWordWithAsteriscs.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\09. SubstituteForbidenWordWithAsteriscs\obj\Debug\_09.SubstituteForbidenWordWithAsteriscs.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\09. SubstituteForbidenWordWithAsteriscs\obj\Debug\_09.SubstituteForbidenWordWithAsteriscs.pdb

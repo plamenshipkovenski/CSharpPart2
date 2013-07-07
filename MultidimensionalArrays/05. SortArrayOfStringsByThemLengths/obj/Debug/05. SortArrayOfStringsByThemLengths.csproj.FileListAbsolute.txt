@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\05. SortArrayOfStringsByThemLengths\bin\Debug\_05.SortArrayOfStringsByThemLengths.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\05. SortArrayOfStringsByThemLengths\bin\Debug\_05.SortArrayOfStringsByThemLengths.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\05. SortArrayOfStringsByThemLengths\bin\Debug\_05.SortArrayOfStringsByThemLengths.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\05. SortArrayOfStringsByThemLengths\obj\Debug\05. SortArrayOfStringsByThemLengths.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\05. SortArrayOfStringsByThemLengths\obj\Debug\_05.SortArrayOfStringsByThemLengths.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\05. SortArrayOfStringsByThemLengths\obj\Debug\_05.SortArrayOfStringsByThemLengths.pdb

@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\12. PrintIndexOfEachLetterFromString\bin\Debug\_12.PrintIndexOfEachLetterFromString.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\12. PrintIndexOfEachLetterFromString\bin\Debug\_12.PrintIndexOfEachLetterFromString.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\12. PrintIndexOfEachLetterFromString\bin\Debug\_12.PrintIndexOfEachLetterFromString.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\12. PrintIndexOfEachLetterFromString\obj\Debug\_12.PrintIndexOfEachLetterFromString.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\12. PrintIndexOfEachLetterFromString\obj\Debug\_12.PrintIndexOfEachLetterFromString.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\12. PrintIndexOfEachLetterFromString\obj\Debug\12. PrintIndexOfEachLetterFromString.csprojResolveAssemblyReference.cache

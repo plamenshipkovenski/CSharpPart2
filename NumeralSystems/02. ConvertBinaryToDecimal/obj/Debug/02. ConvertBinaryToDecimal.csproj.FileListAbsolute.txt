@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\02. ConvertBinaryToDecimal\bin\Debug\_02.ConvertBinaryToDecimal.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\02. ConvertBinaryToDecimal\bin\Debug\_02.ConvertBinaryToDecimal.exe
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\02. ConvertBinaryToDecimal\bin\Debug\_02.ConvertBinaryToDecimal.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\02. ConvertBinaryToDecimal\obj\Debug\_02.ConvertBinaryToDecimal.exe
+D:\telerikAcademy\Programming\c#2\homeworks\NumeralSystems\02. ConvertBinaryToDecimal\obj\Debug\_02.ConvertBinaryToDecimal.pdb

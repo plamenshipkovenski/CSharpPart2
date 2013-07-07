@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\01. GreetPerson\bin\Debug\_01.GreetPerson.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\01. GreetPerson\bin\Debug\_01.GreetPerson.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\01. GreetPerson\bin\Debug\_01.GreetPerson.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\01. GreetPerson\obj\Debug\01. GreetPerson.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\01. GreetPerson\obj\Debug\_01.GreetPerson.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\01. GreetPerson\obj\Debug\_01.GreetPerson.pdb

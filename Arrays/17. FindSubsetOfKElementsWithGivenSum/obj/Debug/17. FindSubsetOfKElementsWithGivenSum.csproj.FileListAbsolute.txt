@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\17. FindSubsetOfKElementsWithGivenSum\bin\Debug\_17.FindSubsetOfKElementsWithGivenSum.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\17. FindSubsetOfKElementsWithGivenSum\bin\Debug\_17.FindSubsetOfKElementsWithGivenSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\17. FindSubsetOfKElementsWithGivenSum\bin\Debug\_17.FindSubsetOfKElementsWithGivenSum.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\17. FindSubsetOfKElementsWithGivenSum\obj\Debug\17. FindSubsetOfKElementsWithGivenSum.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\17. FindSubsetOfKElementsWithGivenSum\obj\Debug\_17.FindSubsetOfKElementsWithGivenSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\17. FindSubsetOfKElementsWithGivenSum\obj\Debug\_17.FindSubsetOfKElementsWithGivenSum.pdb

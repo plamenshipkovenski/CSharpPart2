@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\18. ExtractEMails\bin\Debug\_18.ExtractEMails.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\18. ExtractEMails\bin\Debug\_18.ExtractEMails.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\18. ExtractEMails\bin\Debug\_18.ExtractEMails.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\18. ExtractEMails\obj\Debug\18. ExtractEMails.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\18. ExtractEMails\obj\Debug\_18.ExtractEMails.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\18. ExtractEMails\obj\Debug\_18.ExtractEMails.pdb

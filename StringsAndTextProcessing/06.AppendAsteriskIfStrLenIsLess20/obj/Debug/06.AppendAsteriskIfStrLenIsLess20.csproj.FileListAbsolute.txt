@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\06.AppendAsteriskIfStrLenIsLess20\bin\Debug\06.AppendAsteriskIfStrLenIsLess20.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\06.AppendAsteriskIfStrLenIsLess20\bin\Debug\06.AppendAsteriskIfStrLenIsLess20.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\06.AppendAsteriskIfStrLenIsLess20\bin\Debug\06.AppendAsteriskIfStrLenIsLess20.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\06.AppendAsteriskIfStrLenIsLess20\obj\Debug\06.AppendAsteriskIfStrLenIsLess20.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\06.AppendAsteriskIfStrLenIsLess20\obj\Debug\06.AppendAsteriskIfStrLenIsLess20.exe
+D:\telerikAcademy\Programming\c#2\homeworks\StringsAndTextProcessing\06.AppendAsteriskIfStrLenIsLess20\obj\Debug\06.AppendAsteriskIfStrLenIsLess20.pdb

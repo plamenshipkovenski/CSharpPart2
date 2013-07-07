@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\03. ReadFile\bin\Debug\_03.ReadFile.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\03. ReadFile\bin\Debug\_03.ReadFile.exe
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\03. ReadFile\bin\Debug\_03.ReadFile.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\03. ReadFile\obj\Debug\_03.ReadFile.exe
+D:\telerikAcademy\Programming\c#2\homeworks\ExeptionHandling\03. ReadFile\obj\Debug\_03.ReadFile.pdb

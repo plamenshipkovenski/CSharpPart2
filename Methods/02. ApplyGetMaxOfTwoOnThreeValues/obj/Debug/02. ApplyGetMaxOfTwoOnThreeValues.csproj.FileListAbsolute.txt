@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\02. ApplyGetMaxOfTwoOnThreeValues\bin\Debug\_02.ApplyGetMaxOfTwoOnThreeValues.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\02. ApplyGetMaxOfTwoOnThreeValues\bin\Debug\_02.ApplyGetMaxOfTwoOnThreeValues.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\02. ApplyGetMaxOfTwoOnThreeValues\bin\Debug\_02.ApplyGetMaxOfTwoOnThreeValues.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\02. ApplyGetMaxOfTwoOnThreeValues\obj\Debug\_02.ApplyGetMaxOfTwoOnThreeValues.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\02. ApplyGetMaxOfTwoOnThreeValues\obj\Debug\_02.ApplyGetMaxOfTwoOnThreeValues.pdb

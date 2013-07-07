@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\02. FindSubmatrixWithMaximalSum\bin\Debug\_02.FindSubmatrixWithMaximalSum.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\02. FindSubmatrixWithMaximalSum\bin\Debug\_02.FindSubmatrixWithMaximalSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\02. FindSubmatrixWithMaximalSum\bin\Debug\_02.FindSubmatrixWithMaximalSum.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\02. FindSubmatrixWithMaximalSum\obj\Debug\02. FindSubmatrixWithMaximalSum.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\02. FindSubmatrixWithMaximalSum\obj\Debug\_02.FindSubmatrixWithMaximalSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\MultidimensionalArrays\02. FindSubmatrixWithMaximalSum\obj\Debug\_02.FindSubmatrixWithMaximalSum.pdb

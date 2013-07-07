@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\03. NameLastDigit\bin\Debug\_03.NameLastDigit.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\03. NameLastDigit\bin\Debug\_03.NameLastDigit.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\03. NameLastDigit\bin\Debug\_03.NameLastDigit.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\03. NameLastDigit\obj\Debug\_03.NameLastDigit.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\03. NameLastDigit\obj\Debug\_03.NameLastDigit.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Methods\03. NameLastDigit\obj\Debug\03. NameLastDigit.csprojResolveAssemblyReference.cache

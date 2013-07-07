@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\10. FindSequenceOfGivvenSum\bin\Debug\_10.FindSequenceOfGivvenSum.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\10. FindSequenceOfGivvenSum\bin\Debug\_10.FindSequenceOfGivvenSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\10. FindSequenceOfGivvenSum\bin\Debug\_10.FindSequenceOfGivvenSum.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\10. FindSequenceOfGivvenSum\obj\Debug\10. FindSequenceOfGivvenSum.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\10. FindSequenceOfGivvenSum\obj\Debug\_10.FindSequenceOfGivvenSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\10. FindSequenceOfGivvenSum\obj\Debug\_10.FindSequenceOfGivvenSum.pdb

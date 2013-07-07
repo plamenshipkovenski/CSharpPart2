@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\08. FindSequencewihMaxSum\bin\Debug\_08.FindSequencewihMaxSum.exe.config
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\08. FindSequencewihMaxSum\bin\Debug\_08.FindSequencewihMaxSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\08. FindSequencewihMaxSum\bin\Debug\_08.FindSequencewihMaxSum.pdb
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\08. FindSequencewihMaxSum\obj\Debug\08. FindSequencewihMaxSum.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\08. FindSequencewihMaxSum\obj\Debug\_08.FindSequencewihMaxSum.exe
+D:\telerikAcademy\Programming\c#2\homeworks\Arrays\08. FindSequencewihMaxSum\obj\Debug\_08.FindSequencewihMaxSum.pdb
