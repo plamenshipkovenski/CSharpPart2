@@ -4,6 +4,8 @@ using System.Collections.Generic;
 
 class GenerateAndPrintPermutationsFrom1ToN
 {
+    //* Write a program that reads a number N and generates and prints all the permutations of the numbers [1 … N]. 
+
     static void Main()
     {
         int startNum = 1;
@@ -33,10 +35,12 @@ class GenerateAndPrintPermutationsFrom1ToN
             {
                 //print current Subset of {Numbers.Length} members
                 Console.Write("{ ");
+
                 foreach (var member in subset)
                 {
                     Console.Write("{0} ", member);
                 }
+
                 Console.WriteLine("}");
             }
             

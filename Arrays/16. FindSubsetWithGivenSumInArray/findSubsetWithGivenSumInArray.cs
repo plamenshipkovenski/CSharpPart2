@@ -4,6 +4,8 @@ using System.Text;
 
 class FindSubsetWithGivenSumInArray
 {
+    //* We are given an array of integers and a number S.
+    // Write a program to find if there exists a subset of the elements of the array that has a sum S
 
     private static string ComposeMessage(List<List<int>> subsetsList, int sum)
     {
@@ -44,6 +46,7 @@ class FindSubsetWithGivenSumInArray
     private static void AddSubset(int[] myArray, List<List<int>> subsetsList, string variantAsBinary)
     {
         List<int> subset = new List<int>();
+
         int member = 0;
 
         for (int k = 0; k < variantAsBinary.Length; k++)
@@ -71,7 +74,7 @@ class FindSubsetWithGivenSumInArray
         return sum;
     }
 
-    static void Main()
+    private static int[] AllocateArray()
     {
         Console.Write("input length of array: ");
         int arrLength = int.Parse(Console.ReadLine());
@@ -83,6 +86,12 @@ class FindSubsetWithGivenSumInArray
         {
             myArray[i] = int.Parse(Console.ReadLine());
         }
+        return myArray;
+    }
+
+    static void Main()
+    {
+        int[] myArray = AllocateArray();
 
         Console.Write("Input S: ");
         int sum = int.Parse(Console.ReadLine());
@@ -107,4 +116,5 @@ class FindSubsetWithGivenSumInArray
 
         Console.WriteLine("There is {0} subsets with Sum = {1}", subsetsList.Count, sum);
     }
+
 }

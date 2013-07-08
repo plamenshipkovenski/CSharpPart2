@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class SieveOfEratosthenes
 {
+    //Write a program that finds all prime numbers in the range [1...10 000 000]. Use the sieve of Eratosthenes algorithm (find it in Wikipedia).
+
     static void Main()
     {
         int endInterval = 10000000;
@@ -23,15 +26,17 @@ class SieveOfEratosthenes
             }
         }
 
-        int primesCounter = 0;
-        for (int index = 0; index < sieve.Length; index++)
+        List<int> primesList = new List<int>();
+
+        for (int index = 2; index < sieve.Length; index++)
         {
             if (!sieve[index])
             {
-                primesCounter++;
+                primesList.Add(index);
                 //Console.WriteLine(index);
             }
         }
-        Console.WriteLine(primesCounter);//test: http://primes.utm.edu/howmany.shtml
+
+        Console.WriteLine(primesList.Count);//test: http://primes.utm.edu/howmany.shtml
     }
 }

@@ -5,6 +5,10 @@ using System.Text;
 
 class FindSubsetOfKElementsWithGivenSum
 {
+    //* Write a program that reads three integer numbers N, K and S
+    // and an array of N elements from the console.
+    // Find in the array a subset of K elements that have sum S or indicate about its absence.
+
     private static string ComposeMessage(List<List<int>> validSubsetsList, int sum, int subseqLen)
     {
         StringBuilder sb = new StringBuilder();
@@ -73,7 +77,7 @@ class FindSubsetOfKElementsWithGivenSum
         return bitsOn;
     }
 
-    static void Main()
+    private static int[] AllocateArray()
     {
         Console.Write("input length of array: ");
         int arrLength = int.Parse(Console.ReadLine());
@@ -85,6 +89,12 @@ class FindSubsetOfKElementsWithGivenSum
         {
             myArray[i] = int.Parse(Console.ReadLine());
         }
+        return myArray;
+    }
+
+    static void Main()
+    {
+        int[] myArray = AllocateArray();
 
         Console.Write("input length of subsequence: ");
         int subseqLen = int.Parse(Console.ReadLine());
@@ -114,8 +124,7 @@ class FindSubsetOfKElementsWithGivenSum
                 }
             }
 
-            string finalMessage = ComposeMessage(validSubsetsList, sum, subseqLen);
-            Console.WriteLine(finalMessage);
+            Console.WriteLine(ComposeMessage(validSubsetsList, sum, subseqLen));
         }
     } 
 }

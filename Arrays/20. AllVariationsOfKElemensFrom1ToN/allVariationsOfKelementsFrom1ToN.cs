@@ -22,6 +22,7 @@ class AllVariationsOfKelementsFrom1ToN
 
         setArray = new int[setLength];
         int currentSetMember = 1;
+
         for (int i = 0; i < setArray.Length; i++)
         {
             setArray[i] = currentSetMember++;
@@ -31,6 +32,7 @@ class AllVariationsOfKelementsFrom1ToN
         
         NestedLoops(0);
     }
+
     static void NestedLoops(int currentLoop)
     {
         if (currentLoop == subsetLength)
@@ -38,18 +40,21 @@ class AllVariationsOfKelementsFrom1ToN
             PrintLoops();
             return;
         }
+
         for (int counter = 0; counter < setArray.Length; counter++)
         {
             subset[currentLoop] = setArray[counter];
             NestedLoops(currentLoop + 1);
         }
     }
+
     static void PrintLoops()
     {
         for (int i = 0; i < subsetLength; i++)
         {
             Console.Write("{0} ", subset[i]);
         }
+
         Console.WriteLine();
     }
 }
