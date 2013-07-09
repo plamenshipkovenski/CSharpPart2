@@ -17,9 +17,9 @@ class SieveOfEratosthenes
 
         for (int index = 2; index <= lastCheck; index++)
         {
-            for (int j = index * index; j < sieve.Length; j += index)
+            if (!sieve[index])
             {
-                if (!sieve[j])
+                for (int j = index * index; j < sieve.Length; j += index)
                 {
                     sieve[j] = true;
                 }
